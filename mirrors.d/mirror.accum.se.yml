@@ -4,6 +4,11 @@ address:
   http: http://mirror.accum.se/mirror/almalinux.org/
   https: https://mirror.accum.se/mirror/almalinux.org/
   rsync: rsync://mirror.accum.se/mirror/almalinux.org/
+address_optional:
+  kitten:
+    http: http://mirror.accum.se/mirror/almalinux.org-kitten/
+    https: https://mirror.accum.se/mirror/almalinux.org-kitten/
+    rsync: rsync://mirror.accum.se/mirror/almalinux.org-kitten/
 geolocation:
   country: SE
   state_province: Västerbotten
